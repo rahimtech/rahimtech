@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahimtech
+- 👋 Hi, I’m AlirezaRahimi
 - 👀 I’m interested in Front-end and combine it with Ai ;)
 - 🌱 I’m currently learning NextJS and ChatGPT API
 - 📫 You can contact me with rahimianalytic@gmail.com

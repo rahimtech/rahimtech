@@ -1,5 +1,9 @@
 # Hey there Welcome 😎
 
+- 👋 Hi, I’m AlirezaRahimi
+- 👀 I’m interested in Front-end and generate animatic and amazing webpages ;)
+- 📫 You can contact me with armdev12@gmail.com
+
 ## 🛠 Technologies that I work with
 
 <p align="left">
@@ -30,10 +34,5 @@
   <!-- Bootstrap -->
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
-
-
-- 👋 Hi, I’m AlirezaRahimi
-- 👀 I’m interested in Front-end and generate animatic and amazing webpages ;)
-- 📫 You can contact me with armdev12@gmail.com
 
 
